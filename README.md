@@ -1,10 +1,11 @@
-Ceci est un mini jeu intitulé Pendu écrit en bash!
+This is a mini game called Hangman written in bash!
 
 
-Un mot est séléctionné par hasard du fichier "minidico.txt" et sa longueur est affichée.
+A word is randomly selected from the "minidico.txt" file and its length is displayed.
 
-L'utilisateur devrait saisir un seul caractère, si ce caractère figure dans ce mot, toutes ses occurences seront affichées et le nombre de tentatives reste le même,
-Sinon, le nombre de tentatives diminue,
-L'utilisateur gagne s'il devine tout le mot choisi. Sinon si le nombre de tentatives atteint 0 sans avoir trouvé le mot, le joueur est déclaré perdant.
+The user should enter only one character, if this character is in this word, all its occurrences will be displayed and the number of attempts remains the same,
+Otherwise, the number of possible attempts decreases,
+The user wins if he/she guesses all the chosen characters. Otherwise if the number of attempts reaches 0 without finding the word, the player is declared a loser.
+
 
 Enjoy:)  
